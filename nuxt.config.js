@@ -19,7 +19,7 @@ module.exports = {
   loading: { color: '#3B8070' },
   router: {
      middleware: 'pages',
-     base: '/examples/vuegl/'
+     //base: '/examples/vuegl/'
   },
   /*
   ** Build configuration
